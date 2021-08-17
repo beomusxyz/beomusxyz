@@ -13,7 +13,7 @@ Other than that, I enjoy IT Security, and adminstrate Several Communication/File
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=d1sturbances&show_icons=true&theme=dracula" />
+  <img align="center" src="(https://github-readme-stats.vercel.app/api?username=d1sturbances&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=d1sturbances&langs_count=6&layout=compact&theme=dracula" /
