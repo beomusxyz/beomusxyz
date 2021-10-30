@@ -4,7 +4,7 @@
 
 I do a lot of things, mainly for the Atlas Institute.
 
-Other than that, I enjoy IT Security, and adminstrate Several Communication/Filesharing/Anonymising servers fpr the Atlas Institute
+Other than that, I enjoy IT Security, and adminstrate Several Communication/Filesharing/Anonymising servers for the Atlas Institute
 
 - I'm currently working on containerising The Atlas Institute's Communications Servers for better efficiency and scalability
 - I'm always getting better at Assembler C/C++ and Python
