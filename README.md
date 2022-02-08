@@ -1,7 +1,7 @@
 ### I am D1sturbed
 
 ***
-I'm a man who's known to write certain programs from time to time...
+I do things with code, it's fun.
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=D1sturbing&show_icons=true&theme=dark)
