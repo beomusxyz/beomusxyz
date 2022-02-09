@@ -1,7 +1,7 @@
-### I am beomus
+### I'm Beomus
 
 ***
-I do things with code, it's fun.
+I do things with code sometimes, it's fun.
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=the-prince-of-milk&show_icons=true&theme=dark)
