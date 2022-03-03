@@ -1,7 +1,10 @@
 ### I'm Beomus
 
-***
-I do things with code sometimes, it's fun.
+I'm a student, staunch privacy advocate, Free Software enthusiast, and a questionably competent programmer... 
+
+I run a site, called [The Corporia](https://www.google.com). There, I host a few privacy respecting services, including but not limited to, an XMPP server, Jitsi instance, Cgit and Gitea instances (just in case i can't use github anymore), and a calibre server. 
+
+The XMPP server is currently open for registration, so just sign up with your preferred client and i guess i'll see you there!
 
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=beomus91&count_private=true&show_icons=true&theme=dark)
