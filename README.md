@@ -7,5 +7,5 @@ I run a site, called [The Corporia](https://thecorporia.org). There, I host a fe
 The XMPP server is currently open for registration, so just sign up with your preferred client and i guess i'll see you there!
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=beomus91&count_private=true&show_icons=true&theme=dark)
-![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beomus91&layout=compact&hide=html,css&theme=dark)
+![My github stats](https://github-readme-stats.vercel.app/api?username=beomusxyz&count_private=true&show_icons=true&theme=dark)
+![My top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=beomusxyz&layout=compact&hide=html,css&theme=dark)
